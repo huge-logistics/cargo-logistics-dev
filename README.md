@@ -1,2 +1,2 @@
 # cargo-logistics-dev
-Dev Tests
+Dev
